@@ -1,0 +1,1 @@
+console.log(/\.(txt|html|php)$/.test('httpsa://awidhaiwdnaw.php'))

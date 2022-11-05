@@ -1,0 +1,1 @@
+console.log(str.match(/[^\da-g]{3,7}/g));

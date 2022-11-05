@@ -1,0 +1,1 @@
+console.log(/^[\w-_.]+\.\w{1,3}$/.test('world.oddf.warcraft.ru'))
